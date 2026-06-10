@@ -6,8 +6,6 @@ I code and build whatever I can imagine.
 
 If an idea pops into my head, chances are I'll build it and ship it.
 
----
-
 ## 🧰 My Tech Stack
 
 My main tech stack is:
@@ -22,8 +20,6 @@ My favorite tools are:
 - <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Visual Studio Code
 - <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Apple Notes
 - <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Procreate (on my MacBook)
-
----
 
 ## ⚡ Fun Facts
 
