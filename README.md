@@ -12,28 +12,24 @@ If an idea pops into my head, chances are I'll build it and ship it.
 
 My main tech stack is:
 
-- React
-- TypeScript
-- Tailwind CSS
-- Framer Motion
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> React
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> TypeScript
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> Tailwind CSS
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> Framer Motion
 
 My favorite tools are:
 
-- Visual Studio Code
-- Apple Notes
-- Procreate (on my MacBook)
+- <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Visual Studio Code
+- <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Apple Notes
+- <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Procreate (on my MacBook)
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🐱 I have 3 cats
-- ☕ I don't like coffee
-- 🍥 *Dan Da Dan* is my favorite anime
-- 🏋️ Hobbies: anime, gym, building things
-
----
-
-## 🌐 Social
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> I have 3 cats
+- <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> I don't like coffee
+- <img src="https://cdn.discordapp.com/emojis/1510936388063723620.webp?size=32&animated=true" width="18" /> *Dan Da Dan* is my favorite anime
+- <img src="https://cdn.discordapp.com/emojis/1510936354299711609.webp?size=32&animated=true" width="18" /> Hobbies: anime, gym, building things
 
 [![4u1e](https://i.postimg.cc/tgNsCYQ9/7t2b93t.png)](https://www.tiktok.com/@nexar.sys)
