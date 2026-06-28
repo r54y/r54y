@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm Sway, a Developer based in New Mexico, USA.
+I'm Vibe, a Developer based in New Mexico, USA.
 
 I code and build whatever I can imagine.
 
